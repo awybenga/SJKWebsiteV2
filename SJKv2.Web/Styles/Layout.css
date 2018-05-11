@@ -1,0 +1,975 @@
+﻿/* Color Pallet
+    Grain: #d7cec7
+    Blackboard: #565656
+    Oxblood: #76323F
+    Tan: #c09f80
+    from: https://designschool.canva.com/blog/website-color-schemes/ number 9
+*/
+
+html * {
+    -webkit-font-smoothing: antialiased;
+    /*-moz-osx-font-smoothing: grayscale;*/
+}
+
+*, *:after, *:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 100%;
+    background: linear-gradient(to right, #d7cec7, #c09f80);
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#masthead {
+    /*background: linear-gradient(to right, #edeae5, #fef9c7);*/
+    padding: 0px;
+    padding-bottom: 10px;
+}
+
+    #masthead h1 {
+        /*width: 500px;*/
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        /*font-size: 40px;*/
+        font-size:xx-large;
+        padding: 0px;
+        margin: 0px;
+        color: #565656;
+        /*text-shadow: 2px 2px 5px #353535;*/
+    }
+
+    #masthead h2 {
+        /*margin-top: -15px;*/
+        /*width: 500px;*/
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: x-large;
+        padding: 0px;
+        margin: 0px;
+        color: #565656;
+    }
+
+    #masthead h3 {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: large;
+        padding: 0px;
+        margin: 0px;
+        color: #565656;
+        /*margin-top: -10px;
+        margin-bottom: -5px;*/
+    }
+
+.headerlogo {
+    float: left;
+}
+
+    .headerlogo > img {
+        height: 100px;
+        width: 153px;
+        margin-right: 1em;
+    }
+
+nav {
+    /*height: 45px;*/
+    width: 100%;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    padding-left: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+.navigation {
+    /*background: linear-gradient(to right, #026670, #9fedd7);*/
+    background-color: #76323F;
+    /*padding: 0px;
+    margin: 0px;*/
+    overflow: hidden; /* added */
+}
+
+    .navigation a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: large;
+    }
+
+        .navigation a:hover {
+            background-color: #565656;
+            transition: all 0.3s ease;
+        }
+
+    .navigation .icon {
+        display: none;
+    }
+
+    .navigation > .currentpage {
+        color: yellow;
+        font-weight: bold;
+    }
+
+.havenews {
+    text-shadow: 2px 2px 4px black, 0 0 30px #f1f279, 0 0 10px yellow;
+    /* uncomment the above line when there are items on the News page of the website */
+}
+/*.navlink {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    height: 35px;
+    margin-right: 10px;
+    font-size: 18px;
+    padding-top: 12px;
+    color: #9fedd7;
+    text-decoration: none;
+}*/
+section header {
+    font-size: large;
+    color: #76323F;
+}
+
+aside header {
+    font-size: large;
+    color: #76323F;
+}
+
+.alternate tr:nth-child(2n) {
+    color: #565656;
+}
+
+.indent {
+    margin-top: 1em;
+}
+.indent > p {
+    margin-left: 1em;
+}
+
+    .indent > span {
+        margin-left: 1em;
+        display: block;
+    }
+
+.indent > table {
+        margin-left: 1em;
+    }
+
+.nobullets {
+    list-style-type: none;
+}
+
+.documentlist {
+    list-style: none;
+}
+.documentlist > li {
+    /*list-style-image: url('../Images/documenticon.png');*/
+    background: url('../Images/documenticon.png') left center no-repeat;
+    padding-left: 35px;
+}
+
+.cImg {
+    margin: auto;
+    width:50%;
+    padding: 10px;
+    text-align: center;
+    font-size:20px;
+    /*width: 300px;*/
+}
+    .cImg a {
+        display: block;
+        margin: 15px auto;
+        text-decoration: none;
+        color: #76323F;
+    }
+
+        .cImg a:hover {
+            font-size: 25px;
+            color: white;
+            text-shadow: 2px 2px #565656;
+            transition: all 0.5s ease;
+        }
+
+.linkgrid {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    grid-gap: 20px;
+}
+
+table.infoTable {
+    border: 1px solid #76323F;
+    background-color: #EEEEEE;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+    table.infoTable td, table.infoTable th {
+        border: 1px solid #AAAAAA;
+        padding: 3px 2px;
+    }
+
+    table.infoTable tbody td {
+        font-size: 13px;
+    }
+
+    table.infoTable tr:nth-child(even) {
+        background: #D7CEC7;
+    }
+
+    table.infoTable thead {
+        background: #76323F;
+        background: -moz-linear-gradient(top, #98656f 0%, #834652 66%, #76323F 100%);
+        background: -webkit-linear-gradient(top, #98656f 0%, #834652 66%, #76323F 100%);
+        background: linear-gradient(to bottom, #98656f 0%, #834652 66%, #76323F 100%);
+        border-bottom: 2px solid #444444;
+    }
+
+        table.infoTable thead th {
+            font-size: 15px;
+            font-weight: bold;
+            color: #FFFFFF;
+            border-left: 2px solid #D0E4F5;
+        }
+
+            table.infoTable thead th:first-child {
+                border-left: none;
+            }
+
+    table.infoTable tfoot {
+        font-size: 14px;
+        font-weight: bold;
+        color: #FFFFFF;
+        background: #D7CEC7;
+        background: -moz-linear-gradient(top, #e1dad5 0%, #dbd3cc 66%, #D7CEC7 100%);
+        background: -webkit-linear-gradient(top, #e1dad5 0%, #dbd3cc 66%, #D7CEC7 100%);
+        background: linear-gradient(to bottom, #e1dad5 0%, #dbd3cc 66%, #D7CEC7 100%);
+        border-top: 2px solid #444444;
+    }
+
+        table.infoTable tfoot td {
+            font-size: 14px;
+        }
+
+        table.infoTable tfoot .links {
+            text-align: right;
+        }
+
+            table.infoTable tfoot .links a {
+                display: inline-block;
+                background: #76323F;
+                color: #FFFFFF;
+                padding: 2px 8px;
+                border-radius: 5px;
+            }
+
+.ppcmember {
+    font-weight: bold;
+}
+
+.subGroup:before {
+    content: "\2022\00a0";
+}
+
+.indentedsection {
+    max-width: 600px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 50px;
+    
+}
+
+table.showlines {
+    border-width: 1px 1px 1px 1px;
+    border-spacing: 2px;
+    border-style: outset outset outset outset;
+    border-color: gray gray gray gray;
+    border-collapse: separate;
+}
+
+    table.showlines th {
+        border-width: 1px 1px 1px 1px;
+        border-spacing: 2px;
+        border-style: outset outset outset outset;
+        border-color: gray gray gray gray;
+        border-collapse: separate;
+    }
+
+    table.showlines td {
+        border-width: 1px 1px 1px 1px;
+        border-spacing: 2px;
+        border-style: outset outset outset outset;
+        border-color: gray gray gray gray;
+        border-collapse: separate;
+    }
+
+#priests > ul
+{
+    list-style-type: none;
+}
+
+#sundaymasstimes>header{
+    font-weight:bold;
+}
+
+#normalmasstimes {
+    float: left;
+    margin-right: 1em;
+    margin-left: 1em;
+}
+
+#summermasstimes {
+    float: none;
+}
+
+#weekdaymasstimes {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+#officehours ul {
+    list-style-type: none;
+}
+
+#stewardshipintro {
+    /*width: 500px;*/
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: large;
+    background-color: #d7cec7;
+    padding: 10px;
+}
+
+#churchphoto{
+    max-width: 50%;
+    height: auto;
+    padding: 10px;
+}
+
+#backToTop {
+    display: none;
+    position: fixed;
+    z-index: 10;
+    bottom: 20px;
+    right: 30px;
+    cursor: pointer;
+    height: 75px;
+    width: 75px;
+    /*border: none;
+    outline: none;
+    
+    padding: 15px;
+    height: 72px;
+    width: 72px;*/
+}
+
+/*#region Timeline Styles*/
+
+.cd-container {
+    /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+    .cd-container::after {
+        /* clearfix */
+        content: '';
+        display: table;
+        clear: both;
+    }
+
+#cd-timeline {
+    position: relative;
+    padding: 2em 0;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+    #cd-timeline::before {
+        /* this is the vertical line */
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 18px;
+        height: 100%;
+        width: 4px;
+        background: #d7e4ed;
+    }
+
+@media only screen and (min-width: 1170px) {
+    #cd-timeline {
+        margin-top: 3em;
+        margin-bottom: 3em;
+    }
+
+        #cd-timeline::before {
+            left: 50%;
+            margin-left: -2px;
+        }
+}
+
+.cd-timeline-block {
+    position: relative;
+    margin: 2em 0;
+}
+
+    .cd-timeline-block:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .cd-timeline-block:first-child {
+        margin-top: 0;
+    }
+
+    .cd-timeline-block:last-child {
+        margin-bottom: 0;
+    }
+
+@media only screen and (min-width: 1170px) {
+    .cd-timeline-block {
+        margin: 4em 0;
+    }
+
+        .cd-timeline-block:first-child {
+            margin-top: 0;
+        }
+
+        .cd-timeline-block:last-child {
+            margin-bottom: 0;
+        }
+}
+
+.cd-timeline-year {
+    position: absolute;
+    top: 0;
+    left: 0;
+    /*width: 40px;
+    height: 40px;*/
+}
+
+    .cd-timeline-year h1 {
+        font-size: xx-large;
+    }
+
+.cd-timeline-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
+}
+
+    .cd-timeline-img img {
+        display: block;
+        width: 24px;
+        height: 24px;
+        position: relative;
+        left: 50%;
+        top: 50%;
+        margin-left: -12px;
+        margin-top: -12px;
+    }
+
+    .cd-timeline-img.cd-picture {
+        background: #75ce66;
+    }
+
+    .cd-timeline-img.cd-movie {
+        background: #c03b44;
+    }
+
+    .cd-timeline-img.cd-location {
+        background: #f0ca45;
+    }
+
+@media only screen and (min-width: 1170px) {
+    .cd-timeline-img {
+        width: 60px;
+        height: 60px;
+        left: 50%;
+        margin-left: -30px;
+        /* Force Hardware Acceleration in WebKit */
+        -webkit-transform: translateZ(0);
+        -webkit-backface-visibility: hidden;
+    }
+
+    .cd-timeline-year {
+        width: 60px;
+        height: 60px;
+        left: 50%;
+        margin-left: -45px;
+        /* Force Hardware Acceleration in WebKit */
+        -webkit-transform: translateZ(0);
+        -webkit-backface-visibility: hidden;
+    }
+
+    .cssanimations .cd-timeline-img.is-hidden {
+        visibility: hidden;
+    }
+
+    .cssanimations .cd-timeline-img.bounce-in {
+        visibility: visible;
+        -webkit-animation: cd-bounce-1 0.6s;
+        -moz-animation: cd-bounce-1 0.6s;
+        animation: cd-bounce-1 0.6s;
+    }
+}
+
+@-webkit-keyframes cd-bounce-1 {
+    0% {
+        opacity: 0;
+        -webkit-transform: scale(0.5);
+    }
+
+    60% {
+        opacity: 1;
+        -webkit-transform: scale(1.2);
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+    }
+}
+
+@-moz-keyframes cd-bounce-1 {
+    0% {
+        opacity: 0;
+        -moz-transform: scale(0.5);
+    }
+
+    60% {
+        opacity: 1;
+        -moz-transform: scale(1.2);
+    }
+
+    100% {
+        -moz-transform: scale(1);
+    }
+}
+
+@keyframes cd-bounce-1 {
+    0% {
+        opacity: 0;
+        -webkit-transform: scale(0.5);
+        -moz-transform: scale(0.5);
+        -ms-transform: scale(0.5);
+        -o-transform: scale(0.5);
+        transform: scale(0.5);
+    }
+
+    60% {
+        opacity: 1;
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        -o-transform: scale(1.2);
+        transform: scale(1.2);
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        transform: scale(1);
+    }
+}
+
+.cd-timeline-content {
+    position: relative;
+    margin-left: 60px;
+    background: white;
+    border-radius: 0.25em;
+    padding: 1em;
+    box-shadow: 0 3px 0 #d7e4ed;
+}
+
+    .cd-timeline-content:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .cd-timeline-content h2 {
+        color: #303e49;
+    }
+
+    .cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
+        font-size: 13px;
+        font-size: 0.8125rem;
+    }
+
+    .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
+        display: inline-block;
+    }
+
+    .cd-timeline-content p {
+        margin: 1em 0;
+        line-height: 1.6;
+    }
+
+    .cd-timeline-content .cd-read-more {
+        float: right;
+        padding: .8em 1em;
+        background: #acb7c0;
+        color: white;
+        border-radius: 0.25em;
+    }
+
+    /*.cd-timeline-content td{
+        padding: 10px;
+    }*/ 
+    
+    .cd-timeline-content td:first-child {
+        text-align: right;
+        padding-right: 10px;
+        font-weight: bold;
+    }
+
+.no-touch .cd-timeline-content .cd-read-more:hover {
+    background-color: #bac4cb;
+}
+
+.cd-timeline-content .cd-date {
+    float: left;
+    padding: .8em 0;
+    opacity: .7;
+}
+
+.cd-timeline-content::before {
+    content: '';
+    position: absolute;
+    top: 16px;
+    right: 100%;
+    height: 0;
+    width: 0;
+    border: 7px solid transparent;
+    border-right: 7px solid white;
+}
+
+@media only screen and (min-width: 768px) {
+    .cd-timeline-content h2 {
+        font-size: 20px;
+        font-size: 1.25rem;
+    }
+
+    .cd-timeline-content p {
+        font-size: 16px;
+        font-size: 1rem;
+    }
+
+    .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
+        font-size: 14px;
+        font-size: 0.875rem;
+    }
+}
+
+@media only screen and (min-width: 1170px) {
+    .cd-timeline-content {
+        margin-left: 0;
+        padding: 1.6em;
+        width: 45%;
+    }
+
+        .cd-timeline-content::before {
+            top: 24px;
+            left: 100%;
+            border-color: transparent;
+            border-left-color: white;
+        }
+
+        .cd-timeline-content .cd-read-more {
+            float: left;
+        }
+
+        .cd-timeline-content .cd-date {
+            position: absolute;
+            width: 100%;
+            left: 122%;
+            top: 6px;
+            font-size: 16px;
+            font-size: 1rem;
+        }
+
+    .cd-timeline-block:nth-child(even) .cd-timeline-content {
+        float: right;
+    }
+
+        .cd-timeline-block:nth-child(even) .cd-timeline-content::before {
+            top: 24px;
+            left: auto;
+            right: 100%;
+            border-color: transparent;
+            border-right-color: white;
+        }
+
+        .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {
+            float: right;
+        }
+
+        .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-date {
+            left: auto;
+            right: 122%;
+            text-align: right;
+        }
+
+    .cssanimations .cd-timeline-content.is-hidden {
+        visibility: hidden;
+    }
+
+    .cssanimations .cd-timeline-content.bounce-in {
+        visibility: visible;
+        -webkit-animation: cd-bounce-2 0.6s;
+        -moz-animation: cd-bounce-2 0.6s;
+        animation: cd-bounce-2 0.6s;
+    }
+}
+
+@media only screen and (min-width: 1170px) {
+    /* inverse bounce effect on even content blocks */
+    .cssanimations .cd-timeline-block:nth-child(even) .cd-timeline-content.bounce-in {
+        -webkit-animation: cd-bounce-2-inverse 0.6s;
+        -moz-animation: cd-bounce-2-inverse 0.6s;
+        animation: cd-bounce-2-inverse 0.6s;
+    }
+}
+
+@-webkit-keyframes cd-bounce-2 {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(-100px);
+    }
+
+    60% {
+        opacity: 1;
+        -webkit-transform: translateX(20px);
+    }
+
+    100% {
+        -webkit-transform: translateX(0);
+    }
+}
+
+@-moz-keyframes cd-bounce-2 {
+    0% {
+        opacity: 0;
+        -moz-transform: translateX(-100px);
+    }
+
+    60% {
+        opacity: 1;
+        -moz-transform: translateX(20px);
+    }
+
+    100% {
+        -moz-transform: translateX(0);
+    }
+}
+
+@keyframes cd-bounce-2 {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(-100px);
+        -moz-transform: translateX(-100px);
+        -ms-transform: translateX(-100px);
+        -o-transform: translateX(-100px);
+        transform: translateX(-100px);
+    }
+
+    60% {
+        opacity: 1;
+        -webkit-transform: translateX(20px);
+        -moz-transform: translateX(20px);
+        -ms-transform: translateX(20px);
+        -o-transform: translateX(20px);
+        transform: translateX(20px);
+    }
+
+    100% {
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+        -ms-transform: translateX(0);
+        -o-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+
+@-webkit-keyframes cd-bounce-2-inverse {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(100px);
+    }
+
+    60% {
+        opacity: 1;
+        -webkit-transform: translateX(-20px);
+    }
+
+    100% {
+        -webkit-transform: translateX(0);
+    }
+}
+
+@-moz-keyframes cd-bounce-2-inverse {
+    0% {
+        opacity: 0;
+        -moz-transform: translateX(100px);
+    }
+
+    60% {
+        opacity: 1;
+        -moz-transform: translateX(-20px);
+    }
+
+    100% {
+        -moz-transform: translateX(0);
+    }
+}
+
+@keyframes cd-bounce-2-inverse {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateX(100px);
+        -moz-transform: translateX(100px);
+        -ms-transform: translateX(100px);
+        -o-transform: translateX(100px);
+        transform: translateX(100px);
+    }
+
+    60% {
+        opacity: 1;
+        -webkit-transform: translateX(-20px);
+        -moz-transform: translateX(-20px);
+        -ms-transform: translateX(-20px);
+        -o-transform: translateX(-20px);
+        transform: translateX(-20px);
+    }
+
+    100% {
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+        -ms-transform: translateX(0);
+        -o-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+
+.cssanimations .cd-timeline-img.is-hidden {
+    visibility: hidden;
+}
+
+.cssanimations .cd-timeline-img.bounce-in {
+    visibility: visible;
+    animation: cd-bounce-1 0.6s;
+}
+
+@keyframes cd-bounce-1 {
+    0% {
+        opacity: 0;
+        transform: scale(0.5);
+    }
+
+    60% {
+        opacity: 1;
+        transform: scale(1.2);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+/*#endregion*/
+
+footer {
+    background-color: #76323F;
+    color: #d7cec7;
+}
+
+    footer a {
+        color: white;
+    }
+
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 1000px) {
+    .navigation a:not(:first-child) {
+        display: none;
+    }
+
+    .navigation a {
+        font-size: x-large;
+    }
+
+    .navigation a.icon {
+        float: right;
+        display: block;
+    }
+
+    .bigcalendar {
+        display: none
+    }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 1000px) {
+    .navigation.responsive {
+        position: relative;
+    }
+
+        .navigation.responsive a.icon {
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+
+        .navigation.responsive a {
+            float: none;
+            display: block;
+            text-align: left;
+            font-size: x-large;
+        }
+} 
+
+@media screen and (min-width: 1000px) {
+    .agendacalendar {
+        display: none;
+    }
+}
+
+/* Responsive iFrame. Used for making the calendar switch to Agenda mode for small screens */
+.responsive-iframe-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    /*padding-bottom:30%;*/
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+    .responsive-iframe-container iframe,
+    .vresponsive-iframe-container object,
+    .vresponsive-iframe-container embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        /*height: 100%;*/
+    }
+

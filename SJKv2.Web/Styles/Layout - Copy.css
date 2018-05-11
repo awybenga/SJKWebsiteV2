@@ -1,0 +1,190 @@
+﻿/* Color Pallet
+    Grain: #d7cec7
+    Blackboard: #565656
+    Oxblood: #76323F
+    Tan: #c09f80
+*/
+
+
+body {
+    background: linear-gradient(to right, #edeae5, #fef9c7);
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#masthead {
+    /*background: linear-gradient(to right, #edeae5, #fef9c7);*/
+    padding: 0px;
+}
+
+    #masthead h1 {
+        /*width: 500px;*/
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 40px;
+        padding: 0px;
+        margin: 0px;
+        color: #026670;
+        text-shadow: 2px 2px 5px #01525a;
+    }
+
+    #masthead h2 {
+        /*margin-top: -15px;*/
+        /*width: 500px;*/
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: x-large;
+        padding: 0px;
+        margin: 0px;
+        color: #026670;
+    }
+
+    #masthead h3 {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: large;
+        padding: 0px;
+        margin: 0px;
+        color: #026670;
+        /*margin-top: -10px;
+        margin-bottom: -5px;*/
+    }
+
+.headerlogo {
+    float: left;
+}
+
+    .headerlogo > img {
+        height: 100px;
+        width: 100px;
+        margin-right: 1em;
+    }
+
+nav {
+    /*height: 45px;*/
+    width: 100%;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    padding-left: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+.navigation {
+    /*background: linear-gradient(to right, #026670, #9fedd7);*/
+    background-color: #026670;
+    /*padding: 0px;
+    margin: 0px;*/
+    overflow: hidden; /* added */
+}
+
+    .navigation a {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        float: left;
+        display: block;
+        color: #9fedd7;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .navigation a:hover {
+            background-color: #9fedd7;
+            color: #026670;
+        }
+
+    .navigation .icon {
+        display: none;
+    }
+
+/*.navlink {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    height: 35px;
+    margin-right: 10px;
+    font-size: 18px;
+    padding-top: 12px;
+    color: #9fedd7;
+    text-decoration: none;
+}*/
+
+section header {
+    font-size: large;
+    color: #026670;
+}
+
+.alternate tr:nth-child(2n) {
+    background-color: #fef9c7;
+}
+
+.indent {
+    margin-top: 1em;
+}
+.indent > p {
+    margin-left: 1em;
+}
+
+.indent > span {
+    margin-left: 1em;
+    }
+
+.indent > table {
+        margin-left: 1em;
+    }
+
+#priests > ul
+{
+    list-style-type: none;
+}
+
+#normalmasstimes {
+    float: left;
+    margin-right: 1em;
+}
+
+#summermasstimes {
+    float: none;
+}
+
+#weekdaymasstimes {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 800px) {
+    .navigation a:not(:first-child) {
+        display: none;
+    }
+
+    .navigation a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 800px) {
+    .navigation.responsive {
+        position: relative;
+    }
+
+        .navigation.responsive a.icon {
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+
+        .navigation.responsive a {
+            float: none;
+            display: block;
+            text-align: left;
+        }
+} 
+
+
+
