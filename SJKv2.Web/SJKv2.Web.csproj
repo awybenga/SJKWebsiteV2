@@ -95,6 +95,7 @@
     <Content Include="files\bulletin_20180513.pdf" />
     <Content Include="files\Mass Times Survey 1.pdf" />
     <Content Include="files\bulletin_20180520.pdf" />
+    <Content Include="files\bulletin_20180527.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
