@@ -100,6 +100,7 @@
     <Content Include="files\bulletin_20180610.pdf" />
     <Content Include="files\Mass Times Survey 2.pdf" />
     <Content Include="files\bulletin_20180617.pdf" />
+    <Content Include="files\bulletin_20180624.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
@@ -112,6 +113,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="files\Epicure Fundraiser Poster.PNG" />
+    <Content Include="files\PicnicFlyer2018.png" />
     <Content Include="files\StPatDance2018.png" />
     <Content Include="files\SVDPBBQ2018.png" />
     <Content Include="parishlife_anniversarybooklet.html" />
