@@ -106,6 +106,8 @@
     <Content Include="files\VBS Waiver of Liability  Release 2018.pdf" />
     <Content Include="files\VBS Volunteer Application adapted 2018.pdf" />
     <Content Include="files\bulletin_20180729.pdf" />
+    <Content Include="files\bulletin_20180909.pdf" />
+    <Content Include="files\bulletin_20180916.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
