@@ -108,6 +108,7 @@
     <Content Include="files\bulletin_20180729.pdf" />
     <Content Include="files\bulletin_20180909.pdf" />
     <Content Include="files\bulletin_20180916.pdf" />
+    <Content Include="files\bulletin_20180923.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
