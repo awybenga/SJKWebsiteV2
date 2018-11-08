@@ -121,7 +121,7 @@ nav ul li {
     }
 
 .havenews {
-    text-shadow: 2px 2px 4px black, 0 0 30px #f1f279, 0 0 10px yellow;
+    /*text-shadow: 2px 2px 4px black, 0 0 30px #f1f279, 0 0 10px yellow;*/
     /* uncomment the above line when there are items on the News page of the website */
 }
 /*.navlink {
