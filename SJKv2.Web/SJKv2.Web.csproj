@@ -139,6 +139,10 @@
     <Content Include="files\bulletin_20190421.pdf" />
     <Content Include="files\bulletin_20190428.pdf" />
     <Content Include="files\bulletin_20190505.pdf" />
+    <Content Include="files\bulletin_20190512.pdf" />
+    <Content Include="files\Media Consent SJK.pdf" />
+    <Content Include="files\SJK Registration letter.pdf" />
+    <Content Include="files\SJK VBS Reg 2019.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
@@ -154,6 +158,7 @@
     <Content Include="files\PicnicFlyer2018.png" />
     <Content Include="files\StPatDance2018.png" />
     <Content Include="files\SVDPBBQ2018.png" />
+    <Content Include="files\Weird-Animals-Banner.jpeg" />
     <Content Include="parishlife_anniversarybooklet.html" />
     <Content Include="bulletins.html" />
     <Content Include="calendar.html" />
