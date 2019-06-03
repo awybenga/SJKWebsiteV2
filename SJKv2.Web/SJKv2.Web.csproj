@@ -106,6 +106,7 @@
     <Content Include="files\RummageSale2019.png" />
     <Content Include="files\RummageSale2019p2.png" />
     <Content Include="files\Shipwrecked VBS Parent Info Letter.pdf" />
+    <Content Include="files\SVDPBBQ2019.png" />
     <Content Include="files\VBS Waiver of Liability  Release 2018.pdf" />
     <Content Include="files\VBS Volunteer Application adapted 2018.pdf" />
     <Content Include="files\bulletin_20180729.pdf" />
@@ -144,6 +145,7 @@
     <Content Include="files\SJK Registration letter.pdf" />
     <Content Include="files\SJK VBS Reg 2019.pdf" />
     <Content Include="files\bulletin_20190519.pdf" />
+    <Content Include="files\bulletin_20190602.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
