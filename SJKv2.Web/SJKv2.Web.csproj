@@ -150,6 +150,7 @@
     <Content Include="files\SJK VBS Volunteer Application.docx" />
     <Content Include="files\SJK VBS Volunteer Application.pdf" />
     <Content Include="files\bulletin_20190616.pdf" />
+    <Content Include="files\bulletin_20190623.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
