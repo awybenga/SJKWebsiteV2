@@ -160,6 +160,8 @@
     <Content Include="files\massintentions_20190811.pdf" />
     <Content Include="files\massintentions_20190818.pdf" />
     <Content Include="files\massintentions_20190825.pdf" />
+    <Content Include="files\bulletin_20190908.pdf" />
+    <Content Include="files\bulletin_20190915.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
