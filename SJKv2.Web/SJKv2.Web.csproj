@@ -180,6 +180,7 @@
     <Content Include="files\StPatDance2018.png" />
     <Content Include="files\SVDPBBQ2018.png" />
     <Content Include="files\Weird-Animals-Banner.jpeg" />
+    <Content Include="youth.html" />
     <Content Include="parishlife_anniversarybooklet.html" />
     <Content Include="bulletins.html" />
     <Content Include="calendar.html" />
