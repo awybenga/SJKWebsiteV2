@@ -167,6 +167,7 @@
     <Content Include="files\bulletin_20190929.pdf" />
     <Content Include="Youth\index.html" />
     <Content Include="files\bulletin_20191006.pdf" />
+    <Content Include="files\bulletin_20191027.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
