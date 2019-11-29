@@ -172,6 +172,7 @@
     <Content Include="files\bulletin_20191110.pdf" />
     <Content Include="files\bulletin_20191117.pdf" />
     <Content Include="files\bulletin_20191124.pdf" />
+    <Content Include="files\bulletin_20191201.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
