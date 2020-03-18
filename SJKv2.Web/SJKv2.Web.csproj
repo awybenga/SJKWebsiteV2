@@ -186,6 +186,11 @@
     <Content Include="files\bulletin_20200223.pdf" />
     <Content Include="files\bulletin_20200301.pdf" />
     <Content Include="files\bulletin_20200308.pdf" />
+    <Content Include="files\2020 Further Directives, re COVID-19, March 16.pdf" />
+    <Content Include="files\Bishop Crosby letter March 17.pdf" />
+    <Content Include="files\COVID 19 FBQ.pdf" />
+    <Content Include="files\2020 Letter to Parishes, re New Directives regarding COVID-19, March 13.pdf" />
+    <Content Include="files\2020 PRAYER OF POPE FRANCIS.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
