@@ -191,6 +191,8 @@
     <Content Include="files\COVID 19 FBQ.pdf" />
     <Content Include="files\2020 Letter to Parishes, re New Directives regarding COVID-19, March 13.pdf" />
     <Content Include="files\2020 PRAYER OF POPE FRANCIS.pdf" />
+    <Content Include="files\COVID 19 clarification 3 18.pdf" />
+    <Content Include="files\2020 FURTHER DIRECTIVES March 18.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
