@@ -165,6 +165,7 @@
     <Content Include="files\bulletin_20190915.pdf" />
     <Content Include="files\bulletin_20190922.pdf" />
     <Content Include="files\bulletin_20190929.pdf" />
+    <Content Include="Images\f_logo_RGB-Blue_58.png" />
     <Content Include="Youth\index.html" />
     <Content Include="files\bulletin_20191006.pdf" />
     <Content Include="files\bulletin_20191027.pdf" />
@@ -193,6 +194,8 @@
     <Content Include="files\2020 PRAYER OF POPE FRANCIS.pdf" />
     <Content Include="files\COVID 19 clarification 3 18.pdf" />
     <Content Include="files\2020 FURTHER DIRECTIVES March 18.pdf" />
+    <Content Include="files\ScriptureReflection_20200329.pdf" />
+    <Content Include="files\Parish Information 20200402.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
