@@ -199,6 +199,10 @@ aside header {
             transition: all 0.5s ease;
         }
 
+    .cImg header {
+        font-size: 25px;
+    }
+
 .linkgrid {
     margin: auto;
     width: 100%;
