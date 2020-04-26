@@ -167,6 +167,7 @@
     <Content Include="files\bulletin_20190922.pdf" />
     <Content Include="files\bulletin_20190929.pdf" />
     <Content Include="Images\f_logo_RGB-Blue_58.png" />
+    <Content Include="Images\yt_logo_rgb_light.png" />
     <Content Include="Youth\index.html" />
     <Content Include="files\bulletin_20191006.pdf" />
     <Content Include="files\bulletin_20191027.pdf" />
@@ -198,6 +199,11 @@
     <Content Include="files\ScriptureReflection_20200329.pdf" />
     <Content Include="files\Parish Information 20200402.pdf" />
     <Content Include="files\ScriptureReflection_20200405.pdf" />
+    <Content Include="files\bulletin_20200412.pdf" />
+    <Content Include="files\ScriptureReflection_20200412.pdf" />
+    <Content Include="files\bulletin_20200419.pdf" />
+    <Content Include="files\ScriptureReflection_20200419.pdf" />
+    <Content Include="files\bulletin_20200426.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />

@@ -203,6 +203,10 @@ aside header {
         font-size: 25px;
     }
 
+.emphasiseIt {
+    border-style: solid;
+}
+
 .linkgrid {
     margin: auto;
     width: 100%;
