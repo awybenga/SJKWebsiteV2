@@ -209,6 +209,7 @@
     <Content Include="files\St Joseph the Worker.pdf" />
     <Content Include="files\bulletin_20200503.pdf" />
     <Content Include="files\Catholic Education Week 2020.pdf" />
+    <Content Include="files\bulletin_20200510.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
