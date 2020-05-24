@@ -211,6 +211,7 @@
     <Content Include="files\Catholic Education Week 2020.pdf" />
     <Content Include="files\bulletin_20200510.pdf" />
     <Content Include="files\bulletin_20200517.pdf" />
+    <Content Include="files\bulletin_20200524.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
