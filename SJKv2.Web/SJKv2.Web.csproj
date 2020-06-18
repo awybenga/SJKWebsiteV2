@@ -216,6 +216,7 @@
     <Content Include="files\bulletin_20200607.pdf" />
     <Content Include="files\Bishop Crosby Letter To Parishioners - June 10 2020.pdf" />
     <Content Include="files\bulletin_20200614.pdf" />
+    <Content Include="files\SJK SHORTENED NORMS FOR  REOPENING.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
