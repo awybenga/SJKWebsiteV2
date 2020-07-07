@@ -219,6 +219,7 @@
     <Content Include="files\SJK SHORTENED NORMS FOR  REOPENING.pdf" />
     <Content Include="files\bulletin_20200621.pdf" />
     <Content Include="files\bulletin_20200628.pdf" />
+    <Content Include="files\bulletin_20200705.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
