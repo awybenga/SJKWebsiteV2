@@ -220,6 +220,12 @@
     <Content Include="files\bulletin_20200621.pdf" />
     <Content Include="files\bulletin_20200628.pdf" />
     <Content Include="files\bulletin_20200705.pdf" />
+    <Content Include="files\bulletin_20200712.pdf" />
+    <Content Include="files\bulletin_20200719.pdf" />
+    <Content Include="files\bulletin_20200726.pdf" />
+    <Content Include="files\bulletin_20200802.pdf" />
+    <Content Include="files\bulletin_20200809.pdf" />
+    <Content Include="files\bulletin_20200816.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
