@@ -104,6 +104,7 @@
     <Content Include="files\Mass Times Survey 2.pdf" />
     <Content Include="files\bulletin_20180617.pdf" />
     <Content Include="files\bulletin_20180624.pdf" />
+    <Content Include="files\Novena for the Cause of Life.png" />
     <Content Include="files\Registration VBS 2018.pdf" />
     <Content Include="files\RummageSale2019.png" />
     <Content Include="files\RummageSale2019p2.png" />
@@ -232,6 +233,8 @@
     <Content Include="files\bulletin_20200913.pdf" />
     <Content Include="files\bulletin_20200920.pdf" />
     <Content Include="files\bulletin_20200927.pdf" />
+    <Content Include="files\bulletin_20201004.pdf" />
+    <Content Include="files\Novena for the Cause of Life.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
