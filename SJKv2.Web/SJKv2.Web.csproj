@@ -83,6 +83,7 @@
     <Content Include="files\bulletin_20180225.pdf" />
     <Content Include="files\bulletin_20180304.pdf" />
     <Content Include="files\bulletin_20180311.pdf" />
+    <Content Include="files\Christmas Banner 2020.png" />
     <Content Include="files\CraftVendorSale2018.png" />
     <Content Include="files\bulletin_20180318.pdf" />
     <Content Include="files\bulletin_20180325.pdf" />
@@ -244,6 +245,8 @@
     <Content Include="files\bulletin_20201115.pdf" />
     <Content Include="files\bulletin_20201122.pdf" />
     <Content Include="files\bulletin_20201129.pdf" />
+    <Content Include="files\bulletin_20201206.pdf" />
+    <Content Include="files\Updated COVIDCommunion Dec4.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
