@@ -247,6 +247,7 @@
     <Content Include="files\bulletin_20201129.pdf" />
     <Content Include="files\bulletin_20201206.pdf" />
     <Content Include="files\Updated COVIDCommunion Dec4.pdf" />
+    <Content Include="files\bulletin_20201213.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
