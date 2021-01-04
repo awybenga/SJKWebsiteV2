@@ -248,6 +248,10 @@
     <Content Include="files\bulletin_20201206.pdf" />
     <Content Include="files\Updated COVIDCommunion Dec4.pdf" />
     <Content Include="files\bulletin_20201213.pdf" />
+    <Content Include="files\bulletin_20201220.pdf" />
+    <Content Include="files\bulletin_20201227.pdf" />
+    <Content Include="files\bulletin_20210103.pdf" />
+    <Content Include="files\SJK FHC Introductory Package 2021.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />

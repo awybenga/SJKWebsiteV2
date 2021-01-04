@@ -164,6 +164,8 @@ aside header {
         margin-left: 1em;
     }
 
+.indent > h3 { margin-left: 1em; }
+
 .nobullets {
     list-style-type: none;
 }
