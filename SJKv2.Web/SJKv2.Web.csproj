@@ -254,6 +254,7 @@
     <Content Include="files\SJK FHC Introductory Package 2021.pdf" />
     <Content Include="files\SJK-Conf-Intro-Package-21.pdf" />
     <Content Include="files\bulletin_20210110.pdf" />
+    <Content Include="files\bulletin_20210117.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
