@@ -168,8 +168,11 @@
     <Content Include="files\bulletin_20190915.pdf" />
     <Content Include="files\bulletin_20190922.pdf" />
     <Content Include="files\bulletin_20190929.pdf" />
+    <Content Include="giving.html" />
     <Content Include="Images\f_logo_RGB-Blue_58.png" />
+    <Content Include="Images\OneHeartLogo.jpg" />
     <Content Include="Images\yt_logo_rgb_light.png" />
+    <Content Include="OneHeartOneSoul.html" />
     <Content Include="Youth\index.html" />
     <Content Include="files\bulletin_20191006.pdf" />
     <Content Include="files\bulletin_20191027.pdf" />
@@ -260,6 +263,12 @@
     <Content Include="files\bulletin_20210207.pdf" />
     <Content Include="files\bulletin_20210214.pdf" />
     <Content Include="files\bulletin_20210221.pdf" />
+    <Content Include="files\bulletin_20210228.pdf" />
+    <Content Include="files\bulletin_20210307.pdf" />
+    <Content Include="files\Pre-authorized Giving Brochure.pdf" />
+    <Content Include="files\Pre-authorized Giving Schedule - 2021.pdf" />
+    <Content Include="files\APOSTOLIC LETTER Patris Corde.pdf" />
+    <Content Include="files\Novena St. Joseph.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
