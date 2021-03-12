@@ -269,6 +269,7 @@
     <Content Include="files\Pre-authorized Giving Schedule - 2021.pdf" />
     <Content Include="files\APOSTOLIC LETTER Patris Corde.pdf" />
     <Content Include="files\Novena St. Joseph.pdf" />
+    <Content Include="files\bulletin_20210314.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
