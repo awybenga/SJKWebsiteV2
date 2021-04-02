@@ -272,6 +272,7 @@
     <Content Include="files\bulletin_20210314.pdf" />
     <Content Include="files\bulletin_20210321.pdf" />
     <Content Include="files\bulletin_20210328.pdf" />
+    <Content Include="files\bulletin_20210404.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
