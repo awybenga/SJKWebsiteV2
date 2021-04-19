@@ -274,6 +274,8 @@
     <Content Include="files\bulletin_20210328.pdf" />
     <Content Include="files\bulletin_20210404.pdf" />
     <Content Include="files\bulletin_20210411.pdf" />
+    <Content Include="files\bulletin_20210418.pdf" />
+    <Content Include="files\Memo COVID-19 April 16.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
