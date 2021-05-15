@@ -278,6 +278,9 @@
     <Content Include="files\Memo COVID-19 April 16.pdf" />
     <Content Include="files\bulletin_20210425.pdf" />
     <Content Include="files\bulletin_20210502.pdf" />
+    <Content Include="files\bulletin_20210509.pdf" />
+    <Content Include="files\bulletin_20210516.pdf" />
+    <Content Include="files\Novena Pentecost 2021.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
