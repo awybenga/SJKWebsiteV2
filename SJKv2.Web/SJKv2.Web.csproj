@@ -281,6 +281,7 @@
     <Content Include="files\bulletin_20210509.pdf" />
     <Content Include="files\bulletin_20210516.pdf" />
     <Content Include="files\Novena Pentecost 2021.pdf" />
+    <Content Include="files\bulletin_20210523.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
