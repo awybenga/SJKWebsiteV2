@@ -109,6 +109,7 @@
     <Content Include="files\Registration VBS 2018.pdf" />
     <Content Include="files\RummageSale2019.png" />
     <Content Include="files\RummageSale2019p2.png" />
+    <Content Include="files\SacredHeartNovena.png" />
     <Content Include="files\Shipwrecked VBS Parent Info Letter.pdf" />
     <Content Include="files\SVDPBBQ2019.png" />
     <Content Include="files\VBS Waiver of Liability  Release 2018.pdf" />
@@ -282,6 +283,7 @@
     <Content Include="files\bulletin_20210516.pdf" />
     <Content Include="files\Novena Pentecost 2021.pdf" />
     <Content Include="files\bulletin_20210523.pdf" />
+    <Content Include="files\bulletin_20210530.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
