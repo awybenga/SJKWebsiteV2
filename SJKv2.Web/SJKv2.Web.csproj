@@ -287,6 +287,7 @@
     <Content Include="files\bulletin_20210606.pdf" />
     <Content Include="files\COVID Reopening Step One.pdf" />
     <Content Include="files\National Indigenous History Month.pdf" />
+    <Content Include="files\bulletin_20210613.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
