@@ -295,6 +295,8 @@
     <Content Include="files\bulletin_20210704.pdf" />
     <Content Include="files\VBS 2021.pdf" />
     <Content Include="files\bulletin_20210711.pdf" />
+    <Content Include="files\bulletin_20210718.pdf" />
+    <Content Include="files\HD Liturgy Memo Stage 3 reopening.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
