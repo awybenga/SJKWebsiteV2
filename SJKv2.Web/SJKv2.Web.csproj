@@ -297,6 +297,9 @@
     <Content Include="files\bulletin_20210711.pdf" />
     <Content Include="files\bulletin_20210718.pdf" />
     <Content Include="files\HD Liturgy Memo Stage 3 reopening.pdf" />
+    <Content Include="files\bulletin_20210725.pdf" />
+    <Content Include="files\Cover letter Grandparents Day.pdf" />
+    <Content Include="files\First World Day for Grandparents.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
