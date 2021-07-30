@@ -300,6 +300,7 @@
     <Content Include="files\bulletin_20210725.pdf" />
     <Content Include="files\Cover letter Grandparents Day.pdf" />
     <Content Include="files\First World Day for Grandparents.pdf" />
+    <Content Include="files\bulletin_20210801.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
