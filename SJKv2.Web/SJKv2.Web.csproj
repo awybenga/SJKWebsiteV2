@@ -303,6 +303,7 @@
     <Content Include="files\bulletin_20210801.pdf" />
     <Content Include="files\bulletin_20210808.pdf" />
     <Content Include="files\bulletin_20210815.pdf" />
+    <Content Include="files\bulletin_20210822.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
