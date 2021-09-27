@@ -308,6 +308,11 @@
     <Content Include="files\bulletin_20210905.pdf" />
     <Content Include="files\bulletin_20210912.pdf" />
     <Content Include="files\bulletin_20210919.pdf" />
+    <Content Include="files\FHC-Letter-2022.pdf" />
+    <Content Include="files\2021 Cover Letter re Diocese of Hamilton Vaccine Policy.pdf" />
+    <Content Include="files\bulletin_20210926.pdf" />
+    <Content Include="files\Vaccine Policy_22_September_2021.pdf" />
+    <Content Include="files\APOLOGY Statement CCCBto Indigenous.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
