@@ -313,6 +313,9 @@
     <Content Include="files\bulletin_20210926.pdf" />
     <Content Include="files\Vaccine Policy_22_September_2021.pdf" />
     <Content Include="files\APOLOGY Statement CCCBto Indigenous.pdf" />
+    <Content Include="files\bulletin_20211003.pdf" />
+    <Content Include="files\bulletin_20211010.pdf" />
+    <Content Include="files\bulletin_diocese_202110.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
