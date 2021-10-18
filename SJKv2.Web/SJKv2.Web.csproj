@@ -317,6 +317,7 @@
     <Content Include="files\bulletin_20211010.pdf" />
     <Content Include="files\bulletin_diocese_202110.pdf" />
     <Content Include="files\bulletin_20211017.pdf" />
+    <Content Include="files\Letter Sunday Televised Masses.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
