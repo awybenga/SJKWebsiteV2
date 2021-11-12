@@ -318,6 +318,11 @@
     <Content Include="files\bulletin_diocese_202110.pdf" />
     <Content Include="files\bulletin_20211017.pdf" />
     <Content Include="files\Letter Sunday Televised Masses.pdf" />
+    <Content Include="files\2021 YEAR OF THE FAMILY.pdf" />
+    <Content Include="files\bulletin_20211024.pdf" />
+    <Content Include="files\bulletin_20211031.pdf" />
+    <Content Include="files\bulletin_20211107.pdf" />
+    <Content Include="files\bulletin_20211114.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
