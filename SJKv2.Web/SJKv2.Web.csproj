@@ -323,6 +323,9 @@
     <Content Include="files\bulletin_20211031.pdf" />
     <Content Include="files\bulletin_20211107.pdf" />
     <Content Include="files\bulletin_20211114.pdf" />
+    <Content Include="files\bulletin_20211121.pdf" />
+    <Content Include="files\bulletin_20211128.pdf" />
+    <Content Include="files\Advent CCCB video.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
