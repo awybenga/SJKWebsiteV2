@@ -326,6 +326,8 @@
     <Content Include="files\bulletin_20211121.pdf" />
     <Content Include="files\bulletin_20211128.pdf" />
     <Content Include="files\Advent CCCB video.pdf" />
+    <Content Include="files\bulletin_20211205.pdf" />
+    <Content Include="files\Pre-authorized Schedule - 2022  ST JOSEPH.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
