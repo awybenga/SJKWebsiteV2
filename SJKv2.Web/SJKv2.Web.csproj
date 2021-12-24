@@ -329,6 +329,9 @@
     <Content Include="files\bulletin_20211205.pdf" />
     <Content Include="files\Pre-authorized Schedule - 2022  ST JOSEPH.pdf" />
     <Content Include="files\bulletin_20211212.pdf" />
+    <Content Include="files\bulletin_20211219.pdf" />
+    <Content Include="files\2021 Christmas Message.pdf" />
+    <Content Include="files\bulletin_20211226.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
