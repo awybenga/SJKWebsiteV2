@@ -333,6 +333,9 @@
     <Content Include="files\2021 Christmas Message.pdf" />
     <Content Include="files\bulletin_20211226.pdf" />
     <Content Include="files\bulletin_20220102.pdf" />
+    <Content Include="files\04_January_2022_Covid.pdf" />
+    <Content Include="files\2022 SYNOD explained.pdf" />
+    <Content Include="files\Covid - Jan 7 letter to parishioners.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
