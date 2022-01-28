@@ -338,6 +338,8 @@
     <Content Include="files\Covid - Jan 7 letter to parishioners.pdf" />
     <Content Include="files\bulletin_20220109.pdf" />
     <Content Include="files\bulletin_20220116.pdf" />
+    <Content Include="files\bulletin_20220123.pdf" />
+    <Content Include="files\bulletin_20220130.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
