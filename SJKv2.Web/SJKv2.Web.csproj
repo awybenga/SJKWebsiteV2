@@ -112,6 +112,7 @@
     <Content Include="files\SacredHeartNovena.png" />
     <Content Include="files\Shipwrecked VBS Parent Info Letter.pdf" />
     <Content Include="files\SVDPBBQ2019.png" />
+    <Content Include="files\synod-logo long.jpg" />
     <Content Include="files\VBS 2021.png" />
     <Content Include="files\VBS Waiver of Liability  Release 2018.pdf" />
     <Content Include="files\VBS Volunteer Application adapted 2018.pdf" />
@@ -342,6 +343,10 @@
     <Content Include="files\bulletin_20220130.pdf" />
     <Content Include="files\bulletin_20220206.pdf" />
     <Content Include="files\bulletin_20220213.pdf" />
+    <Content Include="files\bulletin_20220220.pdf" />
+    <Content Include="files\bulletin_20220227.pdf" />
+    <Content Include="files\2022 Letter to Parishioners re Synodality Communion Participation and .._.pdf" />
+    <Content Include="files\Synod Consultation Questionnaire to print.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
