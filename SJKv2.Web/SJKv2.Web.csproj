@@ -96,6 +96,7 @@
     <Content Include="files\bulletin_20180513.pdf" />
     <Content Include="files\CraftVendorSale2018Fall.png" />
     <Content Include="files\CraftVendorSale2019.png" />
+    <Content Include="files\Holy Hour 2022.png" />
     <Content Include="files\Holy Week 2020.png" />
     <Content Include="files\Mass Times Survey 1.pdf" />
     <Content Include="files\bulletin_20180520.pdf" />
@@ -348,6 +349,12 @@
     <Content Include="files\bulletin_20220227.pdf" />
     <Content Include="files\2022 Letter to Parishioners re Synodality Communion Participation and .._.pdf" />
     <Content Include="files\Synod Consultation Questionnaire to print.pdf" />
+    <Content Include="files\bulletin_20220306.pdf" />
+    <Content Include="files\bulletin_20220313.pdf" />
+    <Content Include="files\bulletin_20220320.pdf" />
+    <Content Include="files\bulletin_20220327.pdf" />
+    <Content Include="files\bulletin_20220403.pdf" />
+    <Content Include="files\bulletin_20220410.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
