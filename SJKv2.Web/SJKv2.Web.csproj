@@ -362,6 +362,8 @@
     <Content Include="files\2022 Pastoral Letter to Parishes, re Indigenous Reconciliation Fund, May....pdf" />
     <Content Include="files\Frequently Asked Questions - IRF.PDF" />
     <Content Include="files\bulletin_20220515.pdf" />
+    <Content Include="files\bulletin_20220522.pdf" />
+    <Content Include="files\bulletin_20220529.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
