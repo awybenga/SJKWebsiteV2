@@ -83,6 +83,7 @@
     <Content Include="files\bulletin_20180225.pdf" />
     <Content Include="files\bulletin_20180304.pdf" />
     <Content Include="files\bulletin_20180311.pdf" />
+    <Content Include="files\CaveQuestLogo_LR.png" />
     <Content Include="files\Christmas Banner 2020.png" />
     <Content Include="files\CraftVendorSale2018.png" />
     <Content Include="files\bulletin_20180318.pdf" />
@@ -365,6 +366,7 @@
     <Content Include="files\bulletin_20220522.pdf" />
     <Content Include="files\bulletin_20220529.pdf" />
     <Content Include="files\bulletin_20220605.pdf" />
+    <Content Include="files\bulletin_20220612.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
