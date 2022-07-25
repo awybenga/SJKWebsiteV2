@@ -370,6 +370,8 @@
     <Content Include="files\bulletin_20220619.pdf" />
     <Content Include="files\bulletin_20220626.pdf" />
     <Content Include="files\bulletin_20220703.pdf" />
+    <Content Include="files\bulletin_20220717.pdf" />
+    <Content Include="files\bulletin_20220724.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
