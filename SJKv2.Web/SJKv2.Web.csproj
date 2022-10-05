@@ -373,6 +373,16 @@
     <Content Include="files\bulletin_20220717.pdf" />
     <Content Include="files\bulletin_20220724.pdf" />
     <Content Include="files\bulletin_20220731.pdf" />
+    <Content Include="files\bulletin_20220807.pdf" />
+    <Content Include="files\bulletin_20220814.pdf" />
+    <Content Include="files\bulletin_20220821.pdf" />
+    <Content Include="files\bulletin_20220828.pdf" />
+    <Content Include="files\bulletin_20220904.pdf" />
+    <Content Include="files\bulletin_20220911.pdf" />
+    <Content Include="files\bulletin_20220918.pdf" />
+    <Content Include="files\bulletin_20220925.pdf" />
+    <Content Include="files\bulletin_20221001.pdf" />
+    <Content Include="files\FHC Introductory Letter.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
