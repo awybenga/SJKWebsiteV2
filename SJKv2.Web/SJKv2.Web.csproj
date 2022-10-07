@@ -381,8 +381,9 @@
     <Content Include="files\bulletin_20220911.pdf" />
     <Content Include="files\bulletin_20220918.pdf" />
     <Content Include="files\bulletin_20220925.pdf" />
-    <Content Include="files\bulletin_20221001.pdf" />
+    <Content Include="files\bulletin_20221002.pdf" />
     <Content Include="files\FHC Introductory Letter.pdf" />
+    <Content Include="files\bulletin_20221009.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
