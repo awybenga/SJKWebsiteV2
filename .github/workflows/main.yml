@@ -15,4 +15,4 @@ jobs:
         username: ftpupdates@stjosephkitchener.org
         password: ${{ secrets.ftp_password }}
         dry-run: true
-        server-dir: public_html/v2
+        server-dir: public_html/v2/
