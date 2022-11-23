@@ -14,5 +14,4 @@ jobs:
         server: gator3227.hostgator.com
         username: ftpupdates@stjosephkitchener.org
         password: ${{ secrets.ftp_password }}
-        dry-run: true
         server-dir: public_html/v2/
