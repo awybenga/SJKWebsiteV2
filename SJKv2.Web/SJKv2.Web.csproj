@@ -392,6 +392,7 @@
     <Content Include="files\bulletin_20221120.pdf" />
     <Content Include="files\bulletin_20221127.pdf" />
     <Content Include="files\bulletin_20221204.pdf" />
+    <Content Include="files\bulletin_20221211.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
