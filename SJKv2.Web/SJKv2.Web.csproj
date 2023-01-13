@@ -398,6 +398,7 @@
     <Content Include="files\2023 Letter to Parishioners,  re Synod, Forward Together in Christ, January 4.pdf" />
     <Content Include="files\bulletin_20230108.pdf" />
     <Content Include="files\bulletin_20230101.pdf" />
+    <Content Include="files\bulletin_20230115.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
