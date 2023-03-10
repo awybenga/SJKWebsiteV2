@@ -406,6 +406,7 @@
     <Content Include="files\bulletin_20230219.pdf" />
     <Content Include="files\bulletin_20230226.pdf" />
     <Content Include="files\bulletin_20230305.pdf" />
+    <Content Include="files\bulletin_20230312.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
