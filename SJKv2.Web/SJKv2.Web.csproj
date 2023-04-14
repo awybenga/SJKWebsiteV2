@@ -412,6 +412,7 @@
     <Content Include="files\bulletin_20230402.pdf" />
     <Content Include="files\2023 EASTER MESSAGE from Bishop.pdf" />
     <Content Include="files\bulletin_20230409.pdf" />
+    <Content Include="files\bulletin_20230416.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
