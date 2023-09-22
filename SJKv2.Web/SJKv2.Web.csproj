@@ -428,6 +428,7 @@
     <Content Include="files\bulletin_20230806.pdf" />
     <Content Include="files\FHC Introductory Letter 24.pdf" />
     <Content Include="files\bulletin_20230917.pdf" />
+    <Content Include="files\bulletin_20230924.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
